@@ -1,3 +1,7 @@
 1
 modify by root
+<<<<<<< HEAD
 modify 2 by root
+=======
+modify by kevin
+>>>>>>> origin/master
